@@ -9,6 +9,8 @@
                 <img src="{{ asset('img/book1.jpg') }}" class="w-30 rounded-3" alt="{{ $book->name }}" style="height: 180px; object-fit: cover;">
             </div>
   {{-- s  --}}
+
+  {{-- rr --}}
             <div>
                 <h2 class="text-success mb-3 fw-bold">{{ $book->name }}</h2>
                 <hr>
