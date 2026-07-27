@@ -11,6 +11,7 @@
   {{-- s  --}}
 
   {{-- rr --}}
+  {{-- y --}}
             <div>
                 <h2 class="text-success mb-3 fw-bold">{{ $book->name }}</h2>
                 <hr>
